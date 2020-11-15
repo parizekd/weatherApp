@@ -1,0 +1,18 @@
+/* 
+  English.strings
+  weather
+
+  Created by David Parizek on 14/11/2020.
+  
+*/
+
+"map" = "Map";
+"search" = "Search";
+"favorites" = "Favorites";
+"standard" = "Standard";
+"satelite" = "Satelite";
+"alert" = "Alert";
+"locationPermissionDenied" = "Cannot center to your location. Please enable location permission.";
+"addToFavorites" = "Add to favorites";
+"removeFromFavorites" = "Remove from favorites";
+"feelsLike" = "Feels like";

@@ -1,0 +1,18 @@
+/* 
+  English.strings
+  weather
+
+  Created by David Parizek on 14/11/2020.
+  
+*/
+
+"map" = "Mapa";
+"search" = "Hledat";
+"favorites" = "Oblíbené";
+"standard" = "Standard";
+"satelite" = "Satelitní";
+"alert" = "Chyba";
+"locationPermissionDenied" = "Nelze zobrazit Vaší polohu. Nejprve prosím povolte přístup k poloze.";
+"addToFavorites" = "Přidat do oblíbených";
+"removeFromFavorites" = "Odebrat z oblíbených";
+"feelsLike" = "Pocitově";
